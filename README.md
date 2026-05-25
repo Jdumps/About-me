@@ -10,7 +10,7 @@
 
 ---
 
-Soon-to-graduate IT student building real-world web applications, modern interfaces, and cloud-connected systems. Into full-stack development, cybersecurity, 3D web, and anything that ships.
+Soon-to-graduate IT student building real-world web apps, modern interfaces, and cloud-connected systems. Interested in full-stack development, cybersecurity, 3D web, homelabs, and shipping useful projects.
 
 ---
 
