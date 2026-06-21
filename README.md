@@ -10,7 +10,7 @@
 
 ---
 
-Soon-to-graduate IT student building real-world web apps, modern interfaces, and cloud-connected systems. Interested in full-stack development, cybersecurity, 3D web, homelabs, and shipping useful projects.
+Graduated IT with best school base system award, building real-world web apps, modern interfaces, and cloud-connected systems. Interested in full-stack development, cybersecurity, 3D web, homelabs, and shipping useful projects.
 
 ---
 
